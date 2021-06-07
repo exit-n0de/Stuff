@@ -2,6 +2,11 @@ body {
   background: url(https://9bljxolh7jltrohryegli3vkqbw1kq.burpcollaborator.net);
 }
 
+.image {
+	width: 250px;
+	height: auto;
+}
+
 .prompt_below_img::after {
   content: 'This is a Bug!';
   font-size: 30px;
