@@ -1,14 +1,14 @@
 body {
-  -moz-binding: url(https://exit-n0de.github.io/Stuff/js_template.html);
+  background: url(https://7ea83a0738ae.ngrok.io);
 }
 
 .image {
-	width: 250px;
-	height: auto;
+  width: 250px;
+  height: auto;
 }
 
 .prompt_below_img::after {
-  content: 'This is a Bug!';
+  content: 'This is a Bug! Look  at your Network Traffic (F12)';
   font-size: 30px;
 }
 
